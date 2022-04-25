@@ -1,4 +1,3 @@
-import {Props} from "next/script"
 import {Movie} from "../typings"
 import Image from 'next/image'
 import { useEffect, useState } from "react"
