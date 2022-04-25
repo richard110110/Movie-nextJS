@@ -6,6 +6,9 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
+
+https://movie-next-c74npu5dv-richard110110.vercel.app/
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
 ## How to use
