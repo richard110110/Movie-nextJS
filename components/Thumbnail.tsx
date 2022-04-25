@@ -1,4 +1,3 @@
-import { Props } from 'next/script'
 import Image from 'next/image'
 
 import React from 'react'
